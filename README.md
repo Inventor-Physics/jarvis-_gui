@@ -1,6 +1,6 @@
 # jarvis-with-gui-and-machine-learning
 
-this is a artificial inteligense program made by aditya garg
+this is a artificial inteligense program made by me
 
 this helps with multiple multiple tasks
 
